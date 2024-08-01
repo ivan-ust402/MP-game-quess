@@ -6,9 +6,6 @@
 Поиграть можно перейдя по ссылке https://ivan-ust402.github.io/MP-game-quess/.
 
 ## Description(En)
-
-Skript predlagayet pol'zovatelyu otgadat' vybrannoye im randoinoye chislo ot 0 do 10. Zadacha pol'zovatelya s naimen'shim kolichestvom popytok otgadat' dannoye chislo.
-157 / 5 000
 The script asks the user to guess a random number from 0 to 10 that they have chosen.
 
 The user's task is to guess the given number in the fewest attempts.
