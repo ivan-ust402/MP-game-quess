@@ -1,5 +1,9 @@
 'use strict';
 
+const mainContainer = document.querySelector('.main')
+const title = document.querySelector('.title')
+title.textContent = 'Guess the Number Game (Игра "Угадай число")'
+
 // riddle - загадка, получаем рандомное число от компьютера
 const riddle = parseInt(Math.random() * 10);
 
@@ -25,4 +29,4 @@ function guess(num, count = 1) {
 
 
 
-guess(riddle);
+setTimeout(() => guess(riddle), 2000);
