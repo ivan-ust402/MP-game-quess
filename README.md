@@ -3,7 +3,7 @@
 ## Description(RU) (Описание)
 Скрипт предлагает пользователю отгадать выбранное им рандоиное число от 0 до 10. 
 Задача пользователя с наименьшим количеством попыток отгадать данное число.
-Поиграть можно перейдя по ссылке .
+Поиграть можно перейдя по ссылке https://ivan-ust402.github.io/MP-game-quess/.
 
 ## Description(En)
 
@@ -13,7 +13,7 @@ The script asks the user to guess a random number from 0 to 10 that they have ch
 
 The user's task is to guess the given number in the fewest attempts.
 
-You can play by following the link.
+You can play by following the link https://ivan-ust402.github.io/MP-game-quess/.
 
 ## Technologies used
 * JavaScript
